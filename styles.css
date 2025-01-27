@@ -1,0 +1,62 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;font-family: 'Times New Roman', Times, serif;
+ 
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+
+}
+
+body {
+  background-color: #0f0f10;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  
+
+}
+.button-section {
+  margin-top: 30px;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 1.5rem;
+  color: #4ECCA3;
+  background-color: #232931;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4ECCA3;
+  color: #232931;
+}
