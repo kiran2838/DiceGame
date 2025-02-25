@@ -1,7 +1,7 @@
 
 
 🎲 Two-Player Dice Game
-📝 About the Project
+
 The Two-Player Dice Game is a simple web-based game where two players roll a dice each, and the player with the higher number wins. The game is built using HTML, CSS, and JavaScript, providing an interactive and engaging experience.
 
 ✨ Features
