@@ -21,7 +21,7 @@ The **Two-Player Dice Game** is a simple web-based game where two players roll a
 ## 🚀 How to Run the Game
 ### 1️⃣ Clone the repository:
 ```sh
-git clone https://github.com/your-username/dice-game.git
+git clone https://github.com/kiran2838/DiceGame.git
 ```
 ### 2️⃣ Navigate to the project folder:
 ```sh
@@ -30,7 +30,10 @@ cd dice-game
 ### 3️⃣ Open `index.html` in your browser and start playing!
 
 ## 📸 Screenshots
-_Add screenshots of your game here_
+_Add scree![Screenshot 2025-03-02 141738](https://github.com/user-attachments/assets/4d1a13f4-24f9-47a4-bc5e-1f608de44f31)
+nshots of your game her![Screenshot 2025-03-02 141800](https://github.com/user-attachments/assets/08ecb405-d76f-4e08-9458-c1eeb7af3c22)
+e_![Screenshot 2025-03-02 141815](https://github.com/user-attachments/assets/5b5942f1-c8ae-43d1-ae76-e60558df4761)
+
 
 ## 🤝 Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
